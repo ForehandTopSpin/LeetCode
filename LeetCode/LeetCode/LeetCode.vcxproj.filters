@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21.合并两个有序链表.cpp">
+    <ClCompile Include="27.移除元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
